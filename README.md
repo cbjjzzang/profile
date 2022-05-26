@@ -15,9 +15,8 @@ You can click the Preview link to take a look at your changes.
 
 - E-mail: [cbjjzzang@naver.com](mailto:cbjjzzang@naver.com)
 
- ### About me ✨
+ ###  ✨ About me
 
- 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbjjzzang&show_icons=true&theme=tokyonight) 
 
 
@@ -27,7 +26,11 @@ cbjjzzang/cbjjzzang is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
  
+ ### 🥇 Baekjoon solved rank
+ 
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kirilocha)](https://solved.ac/kirilocha)
+ 
+ ### 📊 Most used language
  
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cbjjzzang&layout=compact&theme=tokyonight)
 
