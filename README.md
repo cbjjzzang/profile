@@ -7,11 +7,13 @@ You can click the Preview link to take a look at your changes.
 ### Hi there 👋
 
 😀백엔드 개발자 최봉진입니다.
-
- **자바 & 스프링부트**를 공부하고 있습니다
+ 
+ 웹 디자인 공부를 하다가 백엔드 공부를 하기위해 **자바 & 스프링부트**를 공부하고 있습니다.
+ 
+ 매일 꾸준히 공부하는 것을 목표로 노력하고 있습니다.
 <div>
 
-- 메일: [cbjjzzang@naver.com](mailto:cbjjzzang@naver.com)
+- E-mail: [cbjjzzang@naver.com](mailto:cbjjzzang@naver.com)
 
  ### About me ✨
 
@@ -25,10 +27,9 @@ cbjjzzang/cbjjzzang is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
  
- 매일매일 꾸준히 하자는 마음가짐으로 임하고 있습니다.
- 
- 
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kirilocha)](https://solved.ac/kirilocha)
+ 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cbjjzzang&layout=compact&theme=tokyonight)
 
   
 **❗Tech Stack**
