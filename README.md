@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 😀백엔드 개발자 최봉진입니다.
  
- 웹 디자인 공부를 하다가 백엔드 공부를 하기위해 **자바 & 스프링부트**를 공부하고 있습니다.
+ **자바 & 스프링부트**를 공부하고 있습니다.
  
  매일 꾸준히 공부하는 것을 목표로 노력하고 있습니다.
 <div>
